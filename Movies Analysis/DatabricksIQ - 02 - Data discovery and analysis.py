@@ -96,8 +96,12 @@
 # MAGIC %md ##### Ask questions in natural language
 # MAGIC <br><br>
 # MAGIC <img src="https://github.com/RafiKurlansik/notebook2/blob/main/assets/genie_question.gif?raw=true" width = 800>
-# MAGIC
+# MAGIC <br><br>
 # MAGIC Genie is able to automatically generate visualizations for you, or you can ask for a specific kind of visualization.
 # MAGIC <br><br>
 # MAGIC
 # MAGIC <img src="https://github.com/RafiKurlansik/notebook2/blob/main/assets/genie_autovisualize.gif?raw=true" width=800>
+
+# COMMAND ----------
+
+
